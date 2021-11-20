@@ -11,4 +11,4 @@
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa681&theme=black" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa681&show_icons=true&theme=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa681&show_icons=true&theme=blue-green)
