@@ -5,7 +5,7 @@
     
 - 🔭 on my way to e full stack developer                                                 
 - 🌱 I’m currently learning JavaScript 
-- ⚡ Fun fact: coder during the day, Music producer during the night :)
+- ⚡ Fun fact: Coder during the day, Music producer at night :)
 - 🧐 You can find me on <a href="https://www.linkedin.com/in/mustafa-sh-3707a1217">Linkedin</a> 
 
 <br>
